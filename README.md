@@ -1,4 +1,5 @@
-https://badges.netlify.com/api/haledbenhassen.netlify.app.svg?branch=main
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b3cfcbec-cfd5-48f4-bc7f-145f9787c75e/deploy-status)](https://app.netlify.com/sites/haledbenhassen/deploys)
 
 
 ![Screenshot from 2021-05-29 15-50-46](https://user-images.githubusercontent.com/55706752/120072756-acff3a80-c095-11eb-8cb6-5146702a0e52.png)
