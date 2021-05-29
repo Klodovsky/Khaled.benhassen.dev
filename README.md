@@ -1,6 +1,4 @@
-# Khaled.benhassen.dev
-Personal portfolio template built with Gatsby
-
+![Screenshot from 2021-05-29 15-50-46](https://user-images.githubusercontent.com/55706752/120072756-acff3a80-c095-11eb-8cb6-5146702a0e52.png)
 
 ## 🛠 Installation & Set Up
 
