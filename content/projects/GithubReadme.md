@@ -1,8 +1,8 @@
 ---
 date: '2020-09-1'
 title: 'Github Profile Readme'
-github: 'https://github.com/chandrikadeb7/chandrikadeb7'
-external: 'https://github.com/chandrikadeb7/chandrikadeb7'
+github: 'https://github.com/klodovsky/chandrikadeb7'
+external: 'https://github.com/klodovsky/chandrikadeb7'
 tech:
   - Github Pages
   - Github Action
