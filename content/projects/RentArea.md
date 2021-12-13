@@ -1,7 +1,7 @@
 ---
 date: '2020-09-16'
 title: 'RentArea'
-github: 'https://github.com/klodovsky/RentArea
+github: 'https://github.com/klodovsky/RentArea'
 external: ''
 tech:
   - Laravel 5.4 
