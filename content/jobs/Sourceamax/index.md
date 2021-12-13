@@ -1,9 +1,9 @@
 ---
 date: '2020-07-15'
-title: 'Web developer'
+title: 'SENIOR JS DEVELOPER'
 company: 'Sourceamax'
 location: 'Grenoble, France'
-range: 'May 2020 - January 2021'
+range: 'May 2020 - Mars 2021'
 url: 'https://www.Sourceamax.com/'
 ---
 <ul>
