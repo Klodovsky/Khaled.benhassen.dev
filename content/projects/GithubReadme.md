@@ -1,15 +1,15 @@
 ---
-date: '2020-09-1'
-title: 'Github Profile Readme'
-github: 'https://github.com/klodovsky/chandrikadeb7'
-external: 'https://github.com/klodovsky/chandrikadeb7'
+date: "2020-09-1"
+title: "Autobenz"
+github: "https://github.com/klodovsky/"
+external: "https://github.com/klodovsky/"
 tech:
-  - Github Pages
-  - Github Action
-  - Javascript
-  - Markdown
-company: ''
+  - Vue.js
+  - Nuxt.js
+  - Node.js
+
+company: "SWISS BOOST NETWORK"
 showInProjects: true
 ---
 
-Github Profile Readme (Who am I?) with integrated automatic blog post github action.
+Developed and designed the e-commerce project.

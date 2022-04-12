@@ -1,16 +1,16 @@
 ---
 date: '2020-09-15'
-title: 'Caim Consulting Website'
-github: 'https://github.com/caimconsulting/caim-consulting-website'
-external: 'https://caimconsulting.in/'
+title: 'FOXNFOX
+github: 'https://github.com'
+external: 'https://foxnfox.ch'
 tech:
   - HTML
   - CSS
   - Javascript
   - Bootstrap
-  - Python
-company: ''
+  - Node.js
+company: 'SWISS BOOST NETWORK'
 showInProjects: true
 ---
 
-Collaborated to develop and deploy the website of a pro-bono legal startup 'Caim Consulting'.
+Collaborated to develop and deploy the website of FOXNFOX'.
