@@ -1,11 +1,12 @@
 ---
-date: '2020-07-15'
-title: 'SENIOR JS DEVELOPER'
-company: 'Sourceamax'
-location: 'Grenoble, France'
-range: 'May 2020 - Mars 2021'
-url: 'https://www.Sourceamax.com/'
+date: "2020-07-15"
+title: "WEB DEVELOPER"
+company: "Sourceamax"
+location: "Grenoble, France"
+range: "May 2020 - Mars 2021"
+url: "https://www.Sourceamax.com/"
 ---
+
 <ul>
 
 <li>Worked alongside project manager to process the migration of an online survey tool made available to the company's customers in SaaS mode.</li>

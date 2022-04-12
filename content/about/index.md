@@ -14,8 +14,8 @@ skills:
 
 I'm a software engineer based in Tunisia who specializes in building and designing exceptional digital experiences.
 
-Currently, I'm working as a Full-Stack Software engineer at [SMIT](https://www.smartmanagement-its.com), Doha.
-
 I have obtained my engineer's degree from [EPS](https://www.polytecsousse.tn/) in Software Engineering (2017-2020).
+
+Currently, I'm working as a Full-Stack Software engineer at [SMIT](https://www.smartmanagement-its.com), Doha.
 
 Here's the list of my favourite daily dose activities :

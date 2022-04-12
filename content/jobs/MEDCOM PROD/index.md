@@ -1,11 +1,12 @@
 ---
-date: '2019-08-01'
-title: 'FULL STUCK JS DEVELOPER'
-company: 'MEDCOM PROD'
-location: 'Sousse, Tunisia'
-range: 'August 2019 - April 2020'
-url: 'https://vymaps.com/TN/Med-Com-Prod-855825461434413/'
+date: "2019-08-01"
+title: "FULL STACK JS DEVELOPER"
+company: "MEDCOM PROD"
+location: "Sousse, Tunisia"
+range: "August 2019 - April 2020"
+url: "https://vymaps.com/TN/Med-Com-Prod-855825461434413/"
 ---
+
 <section> 
 <ul>
 <li>Contributed to multiple software projects simultaneously and participated in the whole
@@ -16,7 +17,5 @@ software development process from design to implementation and delivery.</li>
 and reports.
 </li>
 
-
 </ul>
 </section>
-

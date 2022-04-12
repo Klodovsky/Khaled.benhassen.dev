@@ -11,7 +11,7 @@ url: "https://www.smartmanagement-its.com"
 
 <li>Developing, designing, and delivering new ERP systems and upgrading existing ones for use by business clients.</li>
 
-<li>Working with different IT teams (Devs,Designers,QA testers, Devops) to establish and test interfaces.</li>
+<li>Working with different IT teams (Devs, Designers, QA testers, Devops) to establish and test interfaces.</li>
 
 <li>Working with internal and external business partners to streamline business processes, improve operational efficiencies and identify current issues.</li>
 
