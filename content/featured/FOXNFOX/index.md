@@ -12,4 +12,4 @@ tech:
 showInProjects: true
 ---
 
-FOXNFOX is a team of young IT specialists and web telemarketing specialists trained to boost the sales and promotion of individuals and business partners throughout Switzerland, thanks to our dynamic, practical and easy to manage website.
+FOXNFOX is an e-commerce platform built repost a particular set of auto,utility,motos extracted from other websites for a certain fee. Behind all that stands a  team of young IT specialists and web telemarketing specialists trained to boost the sales and promotion of individuals and business partners throughout Switzerland, thanks to our dynamic, practical and easy to manage website.

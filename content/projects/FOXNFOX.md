@@ -1,7 +1,7 @@
 ---
 date: "2020-09-15"
 title: "FOXNFOX"
-github: "https://github.com"
+github: "https://github.com/Klodovsky"
 external: "https://foxnfox.ch"
 tech:
   - HTML
@@ -13,4 +13,4 @@ company: "SWISS BOOST NETWORK"
 showInProjects: true
 ---
 
-Collaborated to develop and deploy the website of FOXNFOX'.
+Collaborated to develop and deploy the website of FOXNFOX.
