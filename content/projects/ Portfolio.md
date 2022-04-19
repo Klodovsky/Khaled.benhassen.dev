@@ -12,4 +12,4 @@ tech:
 showInProjects: true
 ---
 
-Personal portfolio template built with Gatsby. 
+Personal portfolio template built with Gatsby and React.js 

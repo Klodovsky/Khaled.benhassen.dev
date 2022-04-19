@@ -14,4 +14,4 @@ company: ''
 showInProjects: true
 ---
 
-Repository dedicated to my #RentArea freelance project
+Advanced freelance car rental website built with Laravel, Bootstrap Vue, and MySQL.
